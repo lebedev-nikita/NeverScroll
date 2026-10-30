@@ -8,3 +8,4 @@ local.properties
 *.keystore
 release.properties
 .DS_Store
+.claude/settings.local.json
